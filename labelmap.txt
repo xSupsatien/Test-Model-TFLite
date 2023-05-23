@@ -1,0 +1,14 @@
+car
+bike
+truck
+bus
+taxi
+pickup
+trailer
+car
+bike
+truck
+bus
+taxi
+pickup
+trailer
