@@ -1,10 +1,4 @@
-car
-bike
-truck
-bus
-taxi
-pickup
-trailer
+person
 car
 bike
 truck
