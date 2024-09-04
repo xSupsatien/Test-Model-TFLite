@@ -1,1 +1,9 @@
+car
+bike
+truck
+bus
+taxi
+pickup
+trailer
 person
+cone
